@@ -1,6 +1,8 @@
 # LTU - Propulsion with Space Applications
 
-The purpouse of the Rocket Lab was to validate the performance of an RMS motor. More specifically to collect the data from a loadcell, IR temperature sensor, pt100 temperature sensor, ambient temperature sensor and video camera. And after that to analyze and compare the collected data to the provided specifications of the solid rocket motor.
+The main goal of this lab was to gain first-hand experience on how to plan and execute a controlled launch procedure for a small rocket motor. Although the test involved only the ignition of a small motor, the objective was to simulate the preparation and organization required in real propulsion tests. Additionally, on the test bench there were four sensors (load cell, IR temperature sensor, PT100 temperature sensor, ambient temperature sensor) plus a video camera to collect all of the important data from the rocket motor.
+
+This lab was done in a group of five, and my job was preparing a countdown procedure, mounting and checking the sensors, and collecting all of the data during the test. Afterwards, I was responsible for compiling and analyzing the data into meaningful graphs. The main graphs are shown below.
 
 ![Video showing the rocket motor ignition with two graphs](Graphsignition.gif)
 
